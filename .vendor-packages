@@ -1,2 +1,5 @@
 nspr 4.10.4
+nss 3.16
+file 5.18
+popt 1.16
 rpm 4.11.2
